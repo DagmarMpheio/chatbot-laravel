@@ -61,3 +61,6 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 "# chatbot-laravel" 
+
+## Resultados
+![ScreenShot](https://github.com/DagmarMpheio/chatbot-laravel/blob/main/Screenshot%20(140).png)
