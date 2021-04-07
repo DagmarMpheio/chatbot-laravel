@@ -63,4 +63,5 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 "# chatbot-laravel" 
 
 ## Resultados
-![ScreenShot](https://github.com/DagmarMpheio/chatbot-laravel/blob/main/Screenshot%20(9).png)
+![ScreenShot](https://github.com/DagmarMpheio/chatbot-laravel/blob/main/Screenshot%20(10).png)
+![ScreenShot](https://github.com/DagmarMpheio/chatbot-laravel/blob/main/Screenshot%20(11).png)
